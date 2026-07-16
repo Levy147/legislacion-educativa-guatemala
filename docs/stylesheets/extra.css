@@ -1,0 +1,151 @@
+/* Estilos personalizados para Legislación Educativa de Guatemala */
+
+/* Colores de Guatemala */
+:root {
+  --md-primary-fg-color: #4a148c;
+  --md-primary-fg-color--light: #7c43bd;
+  --md-primary-fg-color--dark: #12005e;
+  --md-accent-fg-color: #ff6f00;
+}
+
+/* Bandera de Guatemala en el fondo */
+.md-header {
+  background: linear-gradient(135deg, #4a148c 0%, #1a237e 100%);
+}
+
+/* Estilos para tablas de legislación */
+.md-typeset table:not([class]) {
+  font-size: 0.85rem;
+}
+
+.md-typeset table:not([class]) th {
+  background-color: #4a148c;
+  color: white;
+  font-weight: bold;
+}
+
+.md-typeset table:not([class]) tr:nth-child(even) {
+  background-color: #f5f5f5;
+}
+
+/* Estilos para admoniciones */
+.md-typeset .admonition {
+  border-left-color: #4a148c;
+}
+
+.md-typeset .admonition-title {
+  background-color: #4a148c1a;
+}
+
+/* Estilos para código */
+.md-typeset code {
+  background-color: #f5f5f5;
+  padding: 0.2em 0.4em;
+  border-radius: 4px;
+}
+
+/* Estilos para enlaces */
+.md-typeset a {
+  color: #4a148c;
+}
+
+.md-typeset a:hover {
+  color: #ff6f00;
+}
+
+/* Estilos para el índice */
+.md-typeset .toc {
+  background-color: #f9f9f9;
+  border-radius: 8px;
+  padding: 1rem;
+}
+
+/* Estilos para dispositivos móviles */
+@media screen and (max-width: 76.1875em) {
+  .md-nav--primary .md-nav__title {
+    background-color: #4a148c;
+  }
+}
+
+/* Estilos para impresión */
+@media print {
+  .md-header,
+  .md-sidebar,
+  .md-footer {
+    display: none;
+  }
+  
+  .md-content {
+    margin: 0;
+    max-width: 100%;
+  }
+}
+
+/* Clases personalizadas */
+.ley-destacada {
+  background-color: #fff3e0;
+  border-left: 4px solid #ff6f00;
+  padding: 1rem;
+  margin: 1rem 0;
+  border-radius: 4px;
+}
+
+.articulo-clave {
+  background-color: #e8f5e9;
+  border-left: 4px solid #4caf50;
+  padding: 1rem;
+  margin: 1rem 0;
+  border-radius: 4px;
+}
+
+.decreto-reciente {
+  background-color: #e3f2fd;
+  border-left: 4px solid #2196f3;
+  padding: 1rem;
+  margin: 1rem 0;
+  border-radius: 4px;
+}
+
+/* Animaciones */
+.md-content a {
+  transition: color 0.2s ease;
+}
+
+.md-nav__link {
+  transition: background-color 0.2s ease;
+}
+
+/* Estilos para el contenido principal */
+.md-typeset h1 {
+  color: #4a148c;
+  font-weight: bold;
+}
+
+.md-typeset h2 {
+  color: #1a237e;
+  border-bottom: 2px solid #ff6f00;
+  padding-bottom: 0.3rem;
+}
+
+.md-typeset h3 {
+  color: #4a148c;
+}
+
+/* Estilos para la barra lateral */
+.md-nav__item--active > .md-nav__link {
+  color: #4a148c;
+  font-weight: bold;
+}
+
+/* Estilos para el pie de página */
+.md-footer {
+  background-color: #4a148c;
+}
+
+.md-footer-nav__link {
+  color: white;
+}
+
+.md-footer-nav__link:hover {
+  color: #ff6f00;
+}

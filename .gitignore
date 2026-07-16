@@ -1,0 +1,42 @@
+# MkDocs
+site/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Dependencies
+node_modules/
+package-lock.json
+
+# Build
+dist/
+build/
+*.egg-info/
+*.egg
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
