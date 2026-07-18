@@ -1,80 +1,10 @@
-# :material-book-open-variant: Legislación Educativa de Guatemala
+# Legislación Educativa de Guatemala
 
 !!! info "Libro Digital"
     **Autor:** Herbert Galeano · **Licencia:** CC BY-SA 4.0 · **Última actualización:** Julio 2026
 
-    Compilación completa y gratuita de toda la legislación educativa vigente en Guatemala.
-    Más de **58 instrumentos normativos** organizados en 13 partes temáticas.
-
----
-
-<div class="grid cards" markdown>
-
--   :material-scale-balance:{ .lg .middle } **Marco Constitucional**
-
-    ---
-
-    Constitución Política - Sección 4ª Educación (Arts. 71-81)
-
-    [:octicons-arrow-right-24: Constitución](leyes/constitucion/ley-12-91-educacion-nacional.md)
-
--   :material-book:{ .lg .middle } **Leyes Principales**
-
-    ---
-
-    Educación Nacional, PINA, Educación Especial, Alimentación, Acoso Escolar
-
-    [:octicons-arrow-right-24: Ley de Educación](leyes/constitucion/ley-12-91-educacion-nacional.md)
-
--   :material-file-document:{ .lg .middle } **Leyes Complementarias**
-
-    ---
-
-    Discapacidad, Idiomas, Alfabetización, Desarrollo Social, Organismo Ejecutivo
-
-    [:octicons-arrow-right-24: Leyes Complementarias](leyes/leyes-complementarias/decreto-135-96-atencion-discapacidad.md)
-
--   :material-account-group:{ .lg .middle } **Leyes del Magisterio**
-
-    ---
-
-    Dignificación del Magisterio, Servicio Civil
-
-    [:octicons-arrow-right-24: Ver leyes](leyes/leyes-magisterio/decreto-1485-dignificacion-magisterio.md)
-
--   :material-government:{ .lg .middle } **Acuerdos Gubernativos**
-
-    ---
-
-    Reglamentos, creación de direcciones, cuotas, vacaciones
-
-    [:octicons-arrow-right-24: Ver acuerdos](leyes/acuerdos-gubernativos/acuerdo-13-77-reglamento-ley-educacion.md)
-
--   :material-school:{ .lg .middle } **Acuerdos Ministeriales**
-
-    ---
-
-    Convivencia, calendario, becas, ética, educación inclusiva
-
-    [:octicons-arrow-right-24: Ver acuerdos](leyes/acuerdos-ministeriales/acuerdo-ministerial-01-2011-convivencia-pacifica.md)
-
--   :material-earth-americas:{ .lg .middle } **Convenios Internacionales**
-
-    ---
-
-    OIT 169, Derechos del Niño, Discapacidad, Acuerdos de Paz
-
-    [:octicons-arrow-right-24: Ver convenios](leyes/convenios-internacionales/convenio-169-oit-pueblos-indigenas.md)
-
--   :material-file-pdf-box:{ .lg .middle } **Documentos PDF**
-
-    ---
-
-    Documentos oficiales originales embebidos para consulta directa
-
-    [:octicons-arrow-right-24: Ver PDFs](documentos-pdf.md)
-
-</div>
+    Compilación completa de la legislación educativa vigente en Guatemala.
+    Más de **58 instrumentos normativos** organizados en 7 partes temáticas.
 
 ---
 

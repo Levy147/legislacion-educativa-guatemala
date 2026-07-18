@@ -2,9 +2,6 @@ site_name: Legislación Educativa de Guatemala
 site_description: Recopilación Comprensiva del Marco Legal Educativo - 58+ instrumentos normativos
 site_author: Herbert Galeano
 
-repo_url: https://github.com/Levy147/legislacion-educativa-guatemala
-repo_name: Levy147/legislacion-educativa-guatemala
-
 theme:
   name: material
   language: es
@@ -34,10 +31,6 @@ theme:
     - content.code.copy
     - content.tabs.link
     - toc.follow
-  icon:
-    repo: fontawesome/brands/github
-  logo: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Flag_of_Guatemala.svg/200px-Flag_of_Guatemala.svg.png
-  favicon: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Flag_of_Guatemala.svg/200px-Flag_of_Guatemala.svg.png
 
 markdown_extensions:
   - admonition
@@ -54,11 +47,6 @@ markdown_extensions:
   - md_in_html
   - toc:
       permalink: true
-
-extra:
-  social:
-    - icon: fontawesome/brands/github
-      link: https://github.com/Levy147/legislacion-educativa-guatemala
 
 nav:
   - Inicio: index.md
