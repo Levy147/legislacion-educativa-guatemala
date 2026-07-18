@@ -2,7 +2,7 @@
 
 ## Recopilación Comprensiva del Marco Legal Educativo
 
-**Autor:** [Tu Nombre]  
+**Autor:** Herbert Galeano  
 **Licencia:** CC BY-SA 4.0  
 **Última actualización:** Julio 2026
 
@@ -10,7 +10,7 @@
 
 ## Descripción
 
-Este libro digital recopila de manera integral toda la legislación educativa vigente en Guatemala, organizada de forma sistemática para facilitar su consulta y estudio. Incluye constitución, leyes, decretos, acuerdos gubernativos y ministeriales que regulan el sistema educativo nacional.
+Este libro digital recopila de manera integral toda la legislación educativa vigente en Guatemala, organizada de forma sistemática para facilitar su consulta y study. Incluye constitución, leyes, decretos, acuerdos gubernativos y ministeriales que regulan el sistema educativo nacional. Además, incluye documentos PDF oficiales originales para consulta directa.
 
 ---
 
