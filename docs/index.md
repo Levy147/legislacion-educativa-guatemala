@@ -13,7 +13,51 @@
 
 # PARTE I - MARCO CONSTITUCIONAL
 
+# CONSTITUCIÓN POLÍTICA DE LA REPÚBLICA DE GUATEMALA
 
+## SECCIÓN CUARTA - Educación
+
+**Artículo 71. Derecho a la educación.** Se garantiza la libertad de enseñanza y de criterio docente. Es obligación del Estado proporcionar y facilitar educación a sus habitantes sin discriminación alguna. Se declara de utilidad y necesidad públicas la fundación y mantenimiento de centros educativos culturales y museos.
+
+**Artículo 72. Fines de la educación.** La educación tiene como fin primordial el desarrollo integral de la persona humana, el conocimiento de la realidad y cultura nacional y universal.
+
+Se declaran de interés nacional la educación, la instrucción, formación social y la enseñanza sistemática de la Constitución de la República y de los derechos humanos.
+
+**Artículo 73. Libertad de educación y asistencia económica estatal.** La familia es fuente de la educación y los padres tienen derecho a escoger la que ha de impartirse a sus hijos menores. El Estado podrá subvencionar a los centros educativos privados gratuitos y la ley regulará lo relativo a esta materia. Los centros educativos privados funcionarán bajo la inspección del Estado. Están obligados a llenar, por lo menos, los planes y programas oficiales de estudio. Como centros de cultura gozarán de la exención de toda clase de impuestos y arbitrios.
+
+La enseñanza religiosa es optativa en los establecimientos oficiales y podrá impartirse dentro de los horarios ordinarios, sin discriminación alguna.
+
+El Estado contribuirá al sostenimiento de la enseñanza religiosa sin discriminación alguna.
+
+**Artículo 74. Educación obligatoria.** Los habitantes tienen el derecho y la obligación de recibir la educación inicial, preprimaria, primaria y básica, dentro de los límites de edad que fije la ley.
+
+La educación impartida por el Estado es gratuita.
+
+El Estado proveerá y promoverá becas y créditos educativos.
+
+La educación científica, la tecnológica y la humanística constituyen objetivos que el Estado deberá orientar y ampliar permanentemente.
+
+El Estado promoverá la educación especial, la diversificada y la extraescolar.
+
+**Artículo 75. Alfabetización.** La alfabetización se declara de urgencia nacional y es obligación social contribuir a ella. El Estado debe organizarla y promoverla con todos los recursos necesarios.
+
+**Artículo 76. Sistema educativo y enseñanza bilingüe.** La administración del sistema educativo deberá ser descentralizada y regionalizada.
+
+En las escuelas establecidas en zonas de predominante población indígena, la enseñanza deberá impartirse preferentemente en forma bilingüe.
+
+**Artículo 77. Obligaciones de los propietarios de empresas.** Los propietarios de las empresas industriales, agrícolas, pecuarias y comerciales están obligados a establecer y mantener, de acuerdo con la ley, escuelas, guarderías y centros culturales para sus trabajadores y población escolar.
+
+**Artículo 78. Magisterio.** El Estado promoverá la superación económica, social y cultural del magisterio, incluyendo el derecho a la jubilación que haga posible su dignificación efectiva.
+
+Los derechos adquiridos por el magisterio nacional tienen carácter de mínimos e irrenunciables. La ley regulará estas materias.
+
+**Artículo 79. Enseñanza agropecuaria.** Se declara de interés nacional el estudio, aprendizaje, explotación, comercialización e industrialización agropecuaria. Se crea como entidad descentralizada, autónoma, con personalidad jurídica y patrimonio propio, la Escuela Nacional Central de Agricultura; debe organizar, dirigir y desarrollar los planes de estudio agropecuario y forestal de la Nación a nivel de enseñanza media; y se regirá por su propia ley orgánica, correspondiéndole una asignación no menor del cinco por ciento del presupuesto ordinario del Ministerio de Agricultura.
+
+**Artículo 80. Promoción de la ciencia y la tecnología.** El Estado reconoce y promueve la ciencia y la tecnología como bases fundamentales del desarrollo nacional. La ley normará lo pertinente.
+
+**Artículo 81. Títulos y diplomas.** Los títulos y diplomas cuya expedición corresponda al Estado, tienen plena validez legal. Los derechos adquiridos por el ejercicio de las profesiones acreditadas por dichos títulos, deben ser respetados y no podrán emitirse disposiciones de cualquier clase que los limiten o restrinjan.
+
+---
 
 # LEY DE EDUCACIÓN NACIONAL
 

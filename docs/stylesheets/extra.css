@@ -258,3 +258,56 @@
   border-radius: 4px;
   font-size: 0.8rem;
 }
+
+/* Tarjetas de PDF */
+.pdf-card {
+  background: linear-gradient(135deg, #fdf2f4 0%, #fff 100%);
+  border: 2px solid #800020;
+  border-radius: 12px;
+  padding: 1.5rem;
+  margin: 1.5rem 0;
+  box-shadow: 0 2px 8px rgba(128, 0, 32, 0.1);
+}
+
+.pdf-card:hover {
+  box-shadow: 0 4px 16px rgba(128, 0, 32, 0.2);
+}
+
+.pdf-card h3 {
+  color: #800020;
+  margin-top: 0;
+}
+
+.pdf-info {
+  margin-bottom: 1rem;
+}
+
+.pdf-card .pdf-viewer {
+  width: 100%;
+  height: 500px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+}
+
+.pdf-card a {
+  display: inline-block;
+  background-color: #800020;
+  color: white;
+  padding: 0.5rem 1.2rem;
+  border-radius: 6px;
+  text-decoration: none;
+  font-weight: bold;
+  margin-top: 0.5rem;
+  transition: background-color 0.3s ease;
+}
+
+.pdf-card a:hover {
+  background-color: #c41e3a;
+  color: white;
+}
+
+@media screen and (max-width: 76.1875em) {
+  .pdf-card .pdf-viewer {
+    height: 350px;
+  }
+}
