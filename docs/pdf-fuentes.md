@@ -15,8 +15,8 @@
     <p><strong>Tipo:</strong> Constitución | <strong>Tamaño:</strong> 492 KB</p>
     <p><strong>Sección relevante:</strong> Sección Cuarta - Educación (Arts. 71-81)</p>
   </div>
-  <iframe src="/pdfs/constitucion-politica.pdf" class="pdf-viewer"></iframe>
-  <p><a href="/pdfs/constitucion-politica.pdf" download>Descargar PDF</a></p>
+  <iframe src="../pdfs/constitucion-politica.pdf" class="pdf-viewer"></iframe>
+  <p><a href="../pdfs/constitucion-politica.pdf" download>Descargar PDF</a></p>
 </div>
 
 ---
@@ -28,8 +28,8 @@
     <h3>Ley de Educación Nacional</h3>
     <p><strong>Vigencia:</strong> 12 de enero de 1991 | <strong>Tamaño:</strong> 140 KB</p>
   </div>
-  <iframe src="/pdfs/ley-educacion-nacional.pdf" class="pdf-viewer"></iframe>
-  <p><a href="/pdfs/ley-educacion-nacional.pdf" download>Descargar PDF</a></p>
+  <iframe src="../pdfs/ley-educacion-nacional.pdf" class="pdf-viewer"></iframe>
+  <p><a href="../pdfs/ley-educacion-nacional.pdf" download>Descargar PDF</a></p>
 </div>
 
 ---
@@ -41,8 +41,8 @@
     <h3>Ley PINA</h3>
     <p><strong>Vigencia:</strong> 2003 | <strong>Tamaño:</strong> 369 KB</p>
   </div>
-  <iframe src="/pdfs/ley-pina.pdf" class="pdf-viewer"></iframe>
-  <p><a href="/pdfs/ley-pina.pdf" download>Descargar PDF</a></p>
+  <iframe src="../pdfs/ley-pina.pdf" class="pdf-viewer"></iframe>
+  <p><a href="../pdfs/ley-pina.pdf" download>Descargar PDF</a></p>
 </div>
 
 ---
@@ -56,8 +56,8 @@
     <h3>Ley de Dignificación del Magisterio</h3>
     <p><strong>Tamaño:</strong> 208 KB</p>
   </div>
-  <iframe src="/pdfs/ley-dignificacion-magisterio.pdf" class="pdf-viewer"></iframe>
-  <p><a href="/pdfs/ley-dignificacion-magisterio.pdf" download>Descargar PDF</a></p>
+  <iframe src="../pdfs/ley-dignificacion-magisterio.pdf" class="pdf-viewer"></iframe>
+  <p><a href="../pdfs/ley-dignificacion-magisterio.pdf" download>Descargar PDF</a></p>
 </div>
 
 ---
@@ -69,8 +69,8 @@
     <h3>Ley de Servicio Civil</h3>
     <p><strong>Tamaño:</strong> 122 KB</p>
   </div>
-  <iframe src="/pdfs/ley-servicio-civil.pdf" class="pdf-viewer"></iframe>
-  <p><a href="/pdfs/ley-servicio-civil.pdf" download>Descargar PDF</a></p>
+  <iframe src="../pdfs/ley-servicio-civil.pdf" class="pdf-viewer"></iframe>
+  <p><a href="../pdfs/ley-servicio-civil.pdf" download>Descargar PDF</a></p>
 </div>
 
 ---
@@ -82,8 +82,8 @@
     <h3>Ley del Organismo Ejecutivo</h3>
     <p><strong>Tamaño:</strong> 114 KB</p>
   </div>
-  <iframe src="/pdfs/ley-organismo-ejecutivo.pdf" class="pdf-viewer"></iframe>
-  <p><a href="/pdfs/ley-organismo-ejecutivo.pdf" download>Descargar PDF</a></p>
+  <iframe src="../pdfs/ley-organismo-ejecutivo.pdf" class="pdf-viewer"></iframe>
+  <p><a href="../pdfs/ley-organismo-ejecutivo.pdf" download>Descargar PDF</a></p>
 </div>
 
 ---
@@ -97,8 +97,8 @@
     <h3>Ley de Educación Especial</h3>
     <p><strong>Tamaño:</strong> 52 KB</p>
   </div>
-  <iframe src="/pdfs/ley-educacion-especial.pdf" class="pdf-viewer"></iframe>
-  <p><a href="/pdfs/ley-educacion-especial.pdf" download>Descargar PDF</a></p>
+  <iframe src="../pdfs/ley-educacion-especial.pdf" class="pdf-viewer"></iframe>
+  <p><a href="../pdfs/ley-educacion-especial.pdf" download>Descargar PDF</a></p>
 </div>
 
 ---
@@ -110,8 +110,8 @@
     <h3>Ley de Atención a Personas con Discapacidad</h3>
     <p><strong>Tamaño:</strong> 396 KB</p>
   </div>
-  <iframe src="/pdfs/ley-atencion-discapacidad.pdf" class="pdf-viewer"></iframe>
-  <p><a href="/pdfs/ley-atencion-discapacidad.pdf" download>Descargar PDF</a></p>
+  <iframe src="../pdfs/ley-atencion-discapacidad.pdf" class="pdf-viewer"></iframe>
+  <p><a href="../pdfs/ley-atencion-discapacidad.pdf" download>Descargar PDF</a></p>
 </div>
 
 ---
@@ -123,8 +123,8 @@
     <h3>Ley Antidiscriminación Racial</h3>
     <p><strong>Tamaño:</strong> 118 KB</p>
   </div>
-  <iframe src="/pdfs/ley-discriminacion.pdf" class="pdf-viewer"></iframe>
-  <p><a href="/pdfs/ley-discriminacion.pdf" download>Descargar PDF</a></p>
+  <iframe src="../pdfs/ley-discriminacion.pdf" class="pdf-viewer"></iframe>
+  <p><a href="../pdfs/ley-discriminacion.pdf" download>Descargar PDF</a></p>
 </div>
 
 ---
@@ -138,8 +138,8 @@
     <h3>Ley de Idiomas Nacionales</h3>
     <p><strong>Tamaño:</strong> 64 KB</p>
   </div>
-  <iframe src="/pdfs/ley-idiomas-nacionales.pdf" class="pdf-viewer"></iframe>
-  <p><a href="/pdfs/ley-idiomas-nacionales.pdf" download>Descargar PDF</a></p>
+  <iframe src="../pdfs/ley-idiomas-nacionales.pdf" class="pdf-viewer"></iframe>
+  <p><a href="../pdfs/ley-idiomas-nacionales.pdf" download>Descargar PDF</a></p>
 </div>
 
 ---
@@ -151,8 +151,8 @@
     <h3>Ley de Escuelas Normales</h3>
     <p><strong>Tamaño:</strong> 1.8 MB</p>
   </div>
-  <iframe src="/pdfs/ley-escuelas-normales.pdf" class="pdf-viewer"></iframe>
-  <p><a href="/pdfs/ley-escuelas-normales.pdf" download>Descargar PDF</a></p>
+  <iframe src="../pdfs/ley-escuelas-normales.pdf" class="pdf-viewer"></iframe>
+  <p><a href="../pdfs/ley-escuelas-normales.pdf" download>Descargar PDF</a></p>
 </div>
 
 ---
@@ -164,8 +164,8 @@
     <h3>Ley de Institutos por Cooperativa</h3>
     <p><strong>Tamaño:</strong> 5.8 MB</p>
   </div>
-  <iframe src="/pdfs/ley-institutos-cooperativa.pdf" class="pdf-viewer"></iframe>
-  <p><a href="/pdfs/ley-institutos-cooperativa.pdf" download>Descargar PDF</a></p>
+  <iframe src="../pdfs/ley-institutos-cooperativa.pdf" class="pdf-viewer"></iframe>
+  <p><a href="../pdfs/ley-institutos-cooperativa.pdf" download>Descargar PDF</a></p>
 </div>
 
 ---
@@ -180,8 +180,8 @@
     <p><strong>Fecha:</strong> 7 de noviembre de 1977 | <strong>Tamaño:</strong> 52 KB</p>
     <p><strong>Nota:</strong> Reglamento de la Ley de Educación Nacional anterior (Decreto 73-76). Referencia histórica.</p>
   </div>
-  <iframe src="/pdfs/acuerdo-gubernativo-13-77.pdf" class="pdf-viewer"></iframe>
-  <p><a href="/pdfs/acuerdo-gubernativo-13-77.pdf" download>Descargar PDF</a></p>
+  <iframe src="../pdfs/acuerdo-gubernativo-13-77.pdf" class="pdf-viewer"></iframe>
+  <p><a href="../pdfs/acuerdo-gubernativo-13-77.pdf" download>Descargar PDF</a></p>
 </div>
 
 ---
@@ -193,8 +193,8 @@
     <h3>AG 233-2017</h3>
     <p><strong>Tipo:</strong> Reglamentario | <strong>Tamaño:</strong> 1.2 MB</p>
   </div>
-  <iframe src="/pdfs/acuerdo-gubernativo-233-2017.pdf" class="pdf-viewer"></iframe>
-  <p><a href="/pdfs/acuerdo-gubernativo-233-2017.pdf" download>Descargar PDF</a></p>
+  <iframe src="../pdfs/acuerdo-gubernativo-233-2017.pdf" class="pdf-viewer"></iframe>
+  <p><a href="../pdfs/acuerdo-gubernativo-233-2017.pdf" download>Descargar PDF</a></p>
 </div>
 
 ---
