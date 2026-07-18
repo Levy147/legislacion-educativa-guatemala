@@ -34,7 +34,7 @@ theme:
     - toc.follow
   icon:
     logo: false
-  favicon: false
+  favicon: ""
 
 markdown_extensions:
   - admonition
