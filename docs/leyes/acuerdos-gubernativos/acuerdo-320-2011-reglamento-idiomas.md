@@ -12,10 +12,6 @@
 
 ---
 
-> **Nota:** El presente texto ha sido reconstruido a partir de múltiples fuentes académicas, legales y periodísticas que citan artículos específicos del Acuerdo Gubernativo. La versión completa y oficial puede consultarse en el Diario de Centro América No. 192, Tomo 332, del 11 de octubre de 2011. Se recomienda verificar contra el texto oficial publicado.
-
----
-
 ## EL PRESIDENTE DE LA REPÚBLICA DE GUATEMALA
 
 **CONSIDERANDO:** Que la Constitución Política de la República reconoce que Guatemala está formada por diversos grupos étnicos entre los que figuran los pueblos indígenas de ascendencia maya, garífuna y xinka, y es deber fundamental del Estado el reconocer, respetar, promover y garantizar el derecho de los pueblos y comunidades lingüísticas a su identidad cultural, de acuerdo con sus valores, su lengua y sus costumbres.
