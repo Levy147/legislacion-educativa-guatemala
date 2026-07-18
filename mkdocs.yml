@@ -31,6 +31,9 @@ theme:
     - content.code.copy
     - content.tabs.link
     - toc.follow
+  icon:
+    logo: false
+  favicon: false
 
 markdown_extensions:
   - admonition

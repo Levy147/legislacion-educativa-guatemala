@@ -1,5 +1,9 @@
 /* Estilos personalizados para Legislación Educativa de Guatemala */
-/* Color Corinto (Borgoña/Granate) */
+
+/* Ocultar logo por defecto de MkDocs Material */
+.md-header__button.md-logo {
+  display: none !important;
+}
 
 /* Variables de color corinto */
 :root {
