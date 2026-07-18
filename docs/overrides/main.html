@@ -94,6 +94,8 @@
 </nav>
 <button class="slide-menu-toggle" id="slideMenuToggle">&#9776;</button>
 
+{% if page and page.is_index %}
+
 <div class="custom-toc" id="customToc">
   <div class="custom-toc-header">Tabla de Contenidos</div>
   <ul class="custom-toc-list">
@@ -152,6 +154,8 @@
     <li><a href="#acuerdos-de-paz-de-guatemala" class="custom-toc-link" data-section="acuerdos-paz">Acuerdos de Paz</a></li>
   </ul>
 </div>
+
+{% endif %}
 
 {{ super() }}
 {% endblock %}
