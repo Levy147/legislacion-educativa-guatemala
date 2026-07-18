@@ -4,6 +4,7 @@ site_author: Herbert Galeano
 
 theme:
   name: material
+  custom_dir: docs/overrides
   language: es
   palette:
     - scheme: default
